@@ -1,0 +1,61 @@
+﻿Software:
+https://custom.ardupilot.org/
+flight controller:
+https://flywoo.net/collections/flight-controllers/products/goku-gn745-40a-aio-bl_32-mpu6000-25-5-x-25-5 8g
+https://pyrodrone.com/products/flywoo-goku-gn-745-40a-aio-bl32-v1-2-mpu600-1mb-flash-5v-9v-25-5x25-5mm 8g - $139.99
+
+Alternative FC:
+https://www.happymodel.cn/index.php/2021/08/13/happymodel-elrs-x1-aio-2-4s-flight-controller-built-in-spi-2-4g-elrs-and-12a-esc-for-toothpick/
+
+VTX
+runcam split HD
+https://shop.runcam.com/runcam-split-hd/ 19g - $145.99
+
+TX/RX
+Suggest using the TBS crossfire series.
+
+MOTORS:
+https://store.tmotor.com/goods.php?id=1119 19.7g 78.8g tot - $19.90x4 $79.60
+T-Motor f2203.5 1500kv
+
+Motors to look at:
+MAMBA TOKA 2203.5 1650KV Racing Motor
+https://www.diatone.us/collections/motor/products/mamba-toka-2203-5-1650kv-2650kv-3300kv-racing-motor-green
+
+Battery:
+ INR21700-50E (50E)
+21700 4s 5000mah - Samsung 69g...nice - 276 total... $7.99x4 $31.96
+
+Prop:
+HQ Prop T6x2.5x3 https://www.team-blacksheep.com/products/product:5852
+**BETTER https://shop.iflight-rc.com/6-7-inch-props-cat120/HQ-6X2.5X3-Tri-blade-Prop-CW-CCW-3sets-Pro1697
+5.3g
+https://www.team-blacksheep.com/products/product:4802 (needs drilling) - $3.49/set
+4.13g
+2nd option:
+GemFan Hurricane SL6026-2 (needs drilling)
+https://www.amazon.com/Propellers-2206-2300-Freestyle-Longrange-Quadcopter/dp/B094VHFPMD
+3.0g 12g tot
+https://www.team-blacksheep.com/products/product:4959 - $2.99/set
+BETTER! https://www.gemfanhobby.com/show.aspx?id=296&cid=48
+resellers:
+https://pyrodrone.com/collections/6-inch/products/gemfan-6042-6-2-blade-propellers-choose-color 4.82g?
+
+Props to look into:
+AVAN Long range 6inch propeller 2 blade 6X3.8X2 4.8g - This is my final selection
+3*2.5=7.5
+2*3.8=7.6
+T Motor 7x2.4 Carbon Fiber Propellers
+https://www.buddyrc.com/collections/7-inch-prop/products/t-motor-7x2-4-carbon-fiber-propellers
+
+Antennas
+https://www.truerc.ca/shop/linear-antennas/2-4ghz-linear-antennas/bardpole-2-4 1.3g - $9.99
+https://www.truerc.ca/shop/5-8ghz-2/transmitter/singularity-5-8 1.03-3.55g - $20.99
+https://www.team-blacksheep.com/products/prod:xf_immortal_t_v2_s - $5.95
+
+round 140g tot leaving about 40g for frame...
+
+JHE20B QUAD FINDER ??
+
+Frame ideas... Make one... 320mm
+or have one custom cut...
