@@ -1,0 +1,11 @@
+https://firmware.ardupilot.org/Copter/stable/
+https://ardupilot.org/copter/docs/common-flywoo-f745.html
+
+https://flywoo.tawk.help/article/firmware%EF%BC%88betaflight%EF%BC%89
+https://flywoo.tawk.help/article/firmware-inav
+
+https://www.runcam.com/download/runcamsplit4
+
+https://files.rfdesign.com.au/firmware/
+
+https://www.st.com/en/development-tools/stm32cubeprog.html
