@@ -6,6 +6,9 @@ Flight controller:
 https://flywoo.net/collections/flight-controllers/products/goku-gn745-40a-aio-bl_32-mpu6000-25-5-x-25-5 8g
 https://pyrodrone.com/products/flywoo-goku-gn-745-40a-aio-bl32-v1-2-mpu600-1mb-flash-5v-9v-25-5x25-5mm 8g - $139.99
 
+Extra ESC:
+https://pyrodrone.com/products/jhemcu-blheli-32-40a-4in1-esc-3-6s
+
 Alternative FC:
 https://www.happymodel.cn/index.php/2021/08/13/happymodel-elrs-x1-aio-2-4s-flight-controller-built-in-spi-2-4g-elrs-and-12a-esc-for-toothpick/
 
@@ -49,3 +52,14 @@ Custom 35g
 8+3+10+3+7+(19.7*4)+(4.8*4)+35 = 164g dry
 
 164+(69*4)+10 = 450g all-up (w/o antennas)
+
+GROUND STATION STUFF:
+
+Controller:
+https://www.amazon.com/dp/B08FFBT5DC/?coliid=I35WR8LA0B1W1H&colid=3NL6QVVFPX2OV&psc=1&ref_=lv_ov_lig_dp_it
+https://store.rfdesign.com.au/rfd900-txmod-v2-rc-transmitter-module/
+
+Goggles:
+https://oscarliang.com/js/fpvgogglefov.html
+
+https://www.skyzonehobbies.com/cobrax.html
