@@ -1,0 +1,1 @@
+Toggle autobaud and use text console to connect
